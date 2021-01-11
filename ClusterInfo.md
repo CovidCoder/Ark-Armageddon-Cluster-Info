@@ -1,7 +1,7 @@
-
+Armageddon Cluster Info
 --------------------------------------------------------------
-Player Stats
-
+--------------------------------------------------------------
+**Player Stats**
 Heath 200 (+20)
 Stamina 200 (+15)
 Torp 200
@@ -10,6 +10,7 @@ Food 500 (+50)
 Water 500 (+50)
 Weight 2500 (+2500)
 --------------------------------------------------------------
+**Server Settings**
 XP x 8
 Max Tribe Size 5
 Harvesting: Players x 8 / Dinos x 50
@@ -20,14 +21,12 @@ Egg Hatching x 400
 7 min 12 sec Imprint Timer
 Turret Cap 250
 Stack Mods
---------------------------------------------------------------
 Auto Unlock NON Tek
 Tek Unlock 108
 Beer Barrel Removed
 Transferable Element with Soap
 --------------------------------------------------------------
-Drop Info 
-
+**Drop Info**
 All Boosted Drops have 200 Dust and 150 Bushberries
 White : Starter Kit and Cosmetics (very low chance at 9999 Element) 
 Green : Taming Supplies ( 3 lower kibble ) (boosted has 3 higher kibble)
@@ -36,14 +35,12 @@ Purple : Saddles and Chibis ( 15% BP) (20% BP Boosted)
 Yellow : Structures (cryofridge, metal, ect) (indi in boosted)
 Red : Weapon (0% BP)/Armor (15% BP) (25% BP Boosted)
 --------------------------------------------------------------
-Boss Loot
-
+**Boss Loot**
 Gama : Saddles, Tek, Armor, Weapons (20% Bp), Tek Armor (15% BP), 15K Dust, 20K Shards, 5000 Element and 7500 Bush berries
 Beta : Saddles, Tek, Armor, Weapons (30% Bp), Tek Armor (30% BP), 20K Dust, 25K Shards, 750 Element and 10K Bush berries
 Alpha : Saddles, Tek, Armor, Weapons (40% Bp), Tek Armor (40% BP), 25K Dust, 35K Shards, 1000 Element and 12500 Bush berries
 --------------------------------------------------------------
-Changed Crafting Costs
-
+**Changed Crafting Costs**
 Cementing Paste > 4 Stone
 Sparkpowder > 2 Flint
 Gunpowder > 1 Charcoal\1 Sparkpowder
