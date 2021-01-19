@@ -27,7 +27,7 @@ Transferable Element with Soap</p>
 <hr>
 <p class="has-line-data" data-line-start="28" data-line-end="36"><strong>Drop Info</strong><br>
 All Boosted Drops have 200 Dust and 150 Bushberries<br>
-White : Starter Kit and Cosmetics (very low chance at 9999 Element)<br>
+White : Starter Kit and Cosmetics (very low chance at getting 1 beer jar for lottery prize)<br>
 Green : Taming Supplies ( 3 lower kibble ) (boosted has 3 higher kibble)<br>
 Blue : Boss Trophies and Artifacts<br>
 Purple : Saddles and Chibis ( 15% BP) (20% BP Boosted)<br>
