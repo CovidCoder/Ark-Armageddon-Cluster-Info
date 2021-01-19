@@ -41,7 +41,7 @@ Alpha : Saddles (40% BP), Tek, Armor(40% BP), Weapons (40% BP), Tek Armor (35% B
 <hr>
 <p class="has-line-data" data-line-start="42" data-line-end="59"><strong>Changed Crafting Costs</strong><br>
 Cementing Paste &gt; 4 Stone (in Mortar and Pestle) 16 Stone (in Chem Bench)<br>
-Sparkpowder &gt; 2 Flint (in Mortar and Pestle) 8 Flint (In Chem Bentch)<br>
+Sparkpowder &gt; 2 Flint (in Mortar and Pestle) 8 Flint (in Chem Bentch)<br>
 Polymer &gt; 2 Obsidian<br>
 Advanced Rifle Bullet &gt; 4 Gun Powder\1 Metal<br>
 Advanced Bullet &gt; 1 Gun Powder\1 Metal<br>
