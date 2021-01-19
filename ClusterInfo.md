@@ -40,8 +40,8 @@ Beta : Saddles (30% BP), Tek, Armor(30% BP), Weapons (30% BP), Tek Armor (25% BP
 Alpha : Saddles (40% BP), Tek, Armor(40% BP), Weapons (40% BP), Tek Armor (35% BP), 25K Dust, 35K Shards, 1000 Element and 12500 Bush berries</p>
 <hr>
 <p class="has-line-data" data-line-start="42" data-line-end="59"><strong>Changed Crafting Costs</strong><br>
-Cementing Paste &gt; 16 Stone (In Chem Bentch)<br>
-Sparkpowder &gt; 8 Flint (In Chem Bentch)<br>
+Cementing Paste &gt; 4 Stone (in Mortar and Pestle) 16 Stone (in Chem Bench)<br>
+Sparkpowder &gt; 2 Flint (in Mortar and Pestle) 8 Flint (In Chem Bentch)<br>
 Polymer &gt; 2 Obsidian<br>
 Advanced Rifle Bullet &gt; 4 Gun Powder\1 Metal<br>
 Advanced Bullet &gt; 1 Gun Powder\1 Metal<br>
