@@ -31,13 +31,13 @@ White : Starter Kit and Cosmetics (very low chance at getting 1 beer jar for lot
 Green : Taming Supplies ( 3 lower kibble ) (boosted has 3 higher kibble)<br>
 Blue : Boss Trophies and Artifacts<br>
 Purple : Saddles and Chibis ( 15% BP) (20% BP Boosted)<br>
-Yellow : Structures (cryofridge, metal, ect) (indi in boosted)<br>
-Red : Weapon (0% BP)/Armor (15% BP) (25% BP Boosted)</p>
+Yellow : Structures (cryofridge, metal, ect) (indi in Boosted)<br>
+Red : Weapon (0% BP) (10% BP Boosted)/Armor (10% BP) (15% BP Boosted)</p>
 <hr>
 <p class="has-line-data" data-line-start="37" data-line-end="41"><strong>Boss Loot</strong><br>
-Gama : Saddles, Tek, Armor, Weapons (20% Bp), Tek Armor (15% BP), 15K Dust, 20K Shards, 5000 Element and 7500 Bush berries<br>
-Beta : Saddles, Tek, Armor, Weapons (30% Bp), Tek Armor (30% BP), 20K Dust, 25K Shards, 750 Element and 10K Bush berries<br>
-Alpha : Saddles, Tek, Armor, Weapons (40% Bp), Tek Armor (40% BP), 25K Dust, 35K Shards, 1000 Element and 12500 Bush berries</p>
+Gama : Saddles (20% BP), Tek, Armor (20% BP), Weapons (20% BP), Tek Armor, 15K Dust, 20K Shards, 5000 Element and 7500 Bush berries<br>
+Beta : Saddles (30% BP), Tek, Armor(30% BP), Weapons (30% BP), Tek Armor (25% BP), 20K Dust, 25K Shards, 750 Element and 10K Bush berries<br>
+Alpha : Saddles (40% BP), Tek, Armor(40% BP), Weapons (40% BP), Tek Armor (35% BP), 25K Dust, 35K Shards, 1000 Element and 12500 Bush berries</p>
 <hr>
 <p class="has-line-data" data-line-start="42" data-line-end="59"><strong>Changed Crafting Costs</strong><br>
 Cementing Paste &gt; 8 Stone (In Chem Bentch)<br>
