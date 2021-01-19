@@ -21,7 +21,7 @@ Egg Hatching x 400<br>
 Turret Cap 250<br>
 Stack Mods<br>
 Auto Unlock NON Tek<br>
-Tek Unlock 108<br>
+All Tek Unlock 108 or Through Boss Fights<br>
 All Beer Items Removed<br>
 Transferable Element with Soap</p>
 <hr>
