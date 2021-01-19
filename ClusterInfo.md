@@ -22,7 +22,7 @@ Turret Cap 250<br>
 Stack Mods<br>
 Auto Unlock NON Tek<br>
 Tek Unlock 108<br>
-Beer Barrel Removed<br>
+All Beer Items Removed<br>
 Transferable Element with Soap</p>
 <hr>
 <p class="has-line-data" data-line-start="28" data-line-end="36"><strong>Drop Info</strong><br>
