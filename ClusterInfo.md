@@ -43,7 +43,7 @@ Alpha : Saddles (40% BP), Tek, Armor(40% BP), Weapons (40% BP), Tek Armor (35% B
 Cementing Paste &gt; 16 Stone (In Chem Bentch)<br>
 Sparkpowder &gt; 8 Flint (In Chem Bentch)<br>
 Polymer &gt; 2 Obsidian<br>
-Advanced Rifle Bullet &gt; 1 Gun Powder\4 Metal<br>
+Advanced Rifle Bullet &gt; 4 Gun Powder\1 Metal<br>
 Advanced Bullet &gt; 1 Gun Powder\1 Metal<br>
 Advanced Sniper Bullet &gt; 6 Gun Powder\1 Metal<br>
 C4 Charge &gt; 2 Cementing Paste\5 Crystal\2 Electronics\25 Fiber\30 Gunpowder\2 Hide\2 Polymer<br>
